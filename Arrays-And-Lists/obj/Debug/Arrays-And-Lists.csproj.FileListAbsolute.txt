@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\bin\Debug\Arrays-And-Lists.exe.config
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\bin\Debug\Arrays-And-Lists.exe
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\bin\Debug\Arrays-And-Lists.pdb
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\obj\Debug\Arrays-And-Lists.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\obj\Debug\Arrays-And-Lists.exe
+C:\Users\cwolf_000\Documents\GitHub\Arrays-And-Lists\Arrays-And-Lists\obj\Debug\Arrays-And-Lists.pdb
